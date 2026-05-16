@@ -7,7 +7,7 @@
     <ProjectGuid>{D92E8A9F-63A9-4EBF-9EAF-ABD31704C197}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <RootNamespace>Ders5Konsol9._9</RootNamespace>
-    <AssemblyName>Ders5Konsol9._9</AssemblyName>
+    <AssemblyName>Ders5Konsol9.9</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

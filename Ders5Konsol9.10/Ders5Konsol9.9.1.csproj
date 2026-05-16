@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{A7600AAC-DEA7-4FE7-AA0D-9329122018B3}</ProjectGuid>
+    <ProjectGuid>{728441F2-3F9C-41E5-98DC-03402B7EABE4}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Ders5Konsol9._7</RootNamespace>
-    <AssemblyName>Ders5Konsol9.7</AssemblyName>
+    <RootNamespace>Ders5Konsol9._10</RootNamespace>
+    <AssemblyName>Ders5Konsol9.10</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

@@ -4,7 +4,7 @@
   </Folder>
   <Folder Name="/Ders3/">
     <Project Path="Ders3/Ders3Formlar.csproj" Id="4f794a06-74b4-4d65-a62b-aa4c3537a130" />
-    <Project Path="Ders3Konsol/Ders3Konsol.csproj" Id="a0e75113-3875-4ff2-9d0b-1d01ff9eb4cb" />
+    <Project Path="Ders3Konsol/Ders3Konsol1.csproj" Id="a0e75113-3875-4ff2-9d0b-1d01ff9eb4cb" />
     <Project Path="Ders3Konsol2/Ders3Konsol2.csproj" Id="9c64d0db-d042-4c54-bb64-43068b0025cf" />
   </Folder>
   <Folder Name="/Ders4/">
@@ -16,6 +16,8 @@
     <Project Path="Ders4Konsol5/Ders4Konsol5.csproj" Id="5a0826ba-8f27-4465-89cb-a6ae79d66acd" />
   </Folder>
   <Folder Name="/Ders5/">
+    <Project Path="ConsoleApp1/Ders5Konsol9.9.csproj" Id="ab6d9ac9-a90a-47d2-a3e0-97ce9e0f5fcf" />
+    <Project Path="Ders5Form/Ders5Formlar.csproj" Id="cb8e0d9d-5954-4a59-9b4d-74044c327029" />
     <Project Path="Ders5Konsol/Ders5Konsol1.csproj" Id="cd851564-2c6d-48bb-b6c9-4256f3539e00" />
     <Project Path="Ders5Konsol10,/Ders5Konsol9.2.csproj" Id="6e57e4c2-54d1-4d27-b45a-88eccfb466a2" />
     <Project Path="Ders5Konsol10/Ders5Konsol9.1.csproj" Id="1db0e7a2-3b87-498d-a88b-51b8a93e18f1" />
@@ -26,9 +28,13 @@
     <Project Path="Ders5Konsol6/Ders5Konsol6.csproj" Id="ad6ceac6-4388-4004-b77b-167017c2b0da" />
     <Project Path="Ders5Konsol7/Ders5Konsol7.csproj" Id="9c18492c-c767-42ff-99a2-bfc1ed710ff1" />
     <Project Path="Ders5Konsol8/Ders5Konsol8.csproj" Id="33b379a0-0850-4ea4-ae38-292dc881cd8d" />
+    <Project Path="Ders5Konsol9.10/Ders5Konsol9.9.1.csproj" Id="728441f2-3f9c-41e5-98dc-03402b7eabe4" />
     <Project Path="Ders5Konsol9.3/Ders5Konsol9.3.csproj" Id="532f2d87-b2ee-4107-8845-1d126a026080" />
     <Project Path="Ders5Konsol9.4/Ders5Konsol9.4.csproj" Id="2d75107e-03ef-4153-8070-94e78ce6cc3c" />
     <Project Path="Ders5Konsol9.5/Ders5Konsol9.5.csproj" Id="74439d7e-0711-411f-b6f9-da1ed2ed9c0e" />
+    <Project Path="Ders5Konsol9.7/Ders5Konsol9.7.csproj" Id="a7600aac-dea7-4fe7-aa0d-9329122018b3" />
+    <Project Path="Ders5Konsol9.8/Ders5Konsol9.8.csproj" Id="00cb5399-15d0-49dc-b325-dcb0d17818ad" />
+    <Project Path="Ders5Konsol9.9/Ders5Konsol9.6.csproj" Id="d92e8a9f-63a9-4ebf-9eaf-abd31704c197" />
     <Project Path="Ders5Konsol9/Ders5Konsol9.csproj" Id="83d75a33-3526-4764-aa53-35c35e90f001" />
   </Folder>
   <Project Path="OOP_FinalDers1/OOP_FinalDers1.csproj" Id="bc3b1a75-b389-4a34-8268-1888289d2196" />
