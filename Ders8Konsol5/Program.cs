@@ -35,7 +35,7 @@ namespace Ders8Konsol5
             Kopek kopek =new Kopek();
             kopek.Ad = "Tom";
             kopek.Yas = 2;
-            Console.WriteLine(kopek.Ad + "\n" + kopek.yas);
+            Console.WriteLine(kopek.Ad + "\n" + kopek.Yas);
         }
     }
 }

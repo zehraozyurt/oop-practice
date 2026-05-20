@@ -68,5 +68,8 @@
     <Project Path="Ders8Konsol4/Ders8Konsol4.csproj" Id="3fd024d3-1642-4090-a88d-1c71516f7aeb" />
     <Project Path="Ders8Konsol5/Ders8Konsol5.csproj" Id="e98b4f93-360c-4f74-bfb5-de1b15c3f9e8" />
     <Project Path="Ders8Konsol6/Ders8Konsol6.csproj" Id="611c373d-2260-4994-aef7-8119d65dacde" />
+    <Project Path="Ders8Konsol7/Ders8Konsol7.csproj" Id="ccd011ee-9989-470f-84a4-80fa97f17479" />
+    <Project Path="Ders8Konsol8/Ders8Konsol8.csproj" Id="993df99a-75d1-4e15-a878-38ea33125bcb" />
+    <Project Path="Ders8Konsol9/Ders8Konsol9.csproj" Id="278b7b01-7407-4c73-8a6e-9afe4bd31973" />
   </Folder>
 </Solution>
