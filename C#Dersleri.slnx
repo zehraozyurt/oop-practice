@@ -55,5 +55,18 @@
     <Project Path="Ders7Konsol1/Ders7Konsol1.csproj" Id="f3cf7a3d-f61b-4cef-9caa-853b9bd10431" />
     <Project Path="Ders7Konsol2/Ders7Konsol2.csproj" Id="98e6acaa-8783-4253-9d66-eadd6bdc133b" />
     <Project Path="Ders7Konsol3/Ders7Konsol3.csproj" Id="55bfc1e8-4c30-4d6b-9d39-a096ffcdbc65" />
+    <Project Path="Ders7Konsol4/Ders7Konsol4.csproj" Id="4c9bb819-0ff9-479c-b2ec-dd0ac49623a6" />
+    <Project Path="Ders7Konsol5/Ders7Konsol5.csproj" Id="e690a130-1eca-4b11-9ae8-c710644189f6" />
+    <Project Path="Ders7Konsol6/Ders7Konsol6.csproj" Id="a7520603-e1c0-4afc-8c8f-acf4dd5ac18c" />
+    <Project Path="Ders7Konsol7/Ders7Konsol7.csproj" Id="3146ecf2-5fe9-471a-90a3-7b222954540b" />
+    <Project Path="Ders7Konsol8/Ders7Konsol8.csproj" Id="a0415dda-73d9-477d-9b64-ff8d4eb4717c" />
+  </Folder>
+  <Folder Name="/Ders8/">
+    <Project Path="Ders8Konsol1/Ders8Konsol1.csproj" Id="6321f5e0-4be7-4950-b27e-33c038098401" />
+    <Project Path="Ders8Konsol2/Ders8Konsol2.csproj" Id="98c87d3d-f2c0-4de9-9378-a54e09c21b9d" />
+    <Project Path="Ders8Konsol3/Ders8Konsol3.csproj" Id="ae71d388-c323-4136-9c08-a166e42f77fd" />
+    <Project Path="Ders8Konsol4/Ders8Konsol4.csproj" Id="3fd024d3-1642-4090-a88d-1c71516f7aeb" />
+    <Project Path="Ders8Konsol5/Ders8Konsol5.csproj" Id="e98b4f93-360c-4f74-bfb5-de1b15c3f9e8" />
+    <Project Path="Ders8Konsol6/Ders8Konsol6.csproj" Id="611c373d-2260-4994-aef7-8119d65dacde" />
   </Folder>
 </Solution>
